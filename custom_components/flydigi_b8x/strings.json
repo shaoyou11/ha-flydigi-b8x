@@ -1,0 +1,1 @@
+{"config":{"step":{"user":{"title":"连接 Flydigi B8X","data":{"address":"蓝牙 MAC 地址"}}},"error":{"invalid_address":"请输入有效的蓝牙 MAC 地址"},"abort":{"already_configured":"这台 B8X 已添加"}}}

@@ -1,0 +1,13 @@
+{
+  "domain": "flydigi_b8x",
+  "name": "Flydigi B8X BLE",
+  "version": "0.2.0",
+  "documentation": "https://github.com/shaoyou11/ha-flydigi-b8x",
+  "issue_tracker": "https://github.com/shaoyou11/ha-flydigi-b8x/issues",
+  "config_flow": true,
+  "dependencies": ["bluetooth"],
+  "requirements": ["bleak-retry-connector>=3.5.0"],
+  "codeowners": ["@shaoyou11"],
+  "iot_class": "local_polling",
+  "integration_type": "device"
+}
